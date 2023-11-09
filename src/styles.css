@@ -11,8 +11,6 @@ html {
   cursor: url('../assets/mallet.png'), pointer;
 }
 
-
-
 @font-face {
   font-family: "Beaufort for lol";
   src: url("../assets/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf");
@@ -37,7 +35,6 @@ h2 {
   font-size: 40px;
   color: black;
   /* -webkit-text-stroke: 1px black; */
-
 }
 
 #start {
