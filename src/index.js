@@ -11,7 +11,7 @@ let lastHole = 0;
 let points = 0;
 let difficulty = "hard";
 
-const backgroundTrack = new Audio("../assets/Kled_Original_Passive_Drone02_SFX_4.ogg")
+const backgroundTrack = new Audio("./assets/Kled_Original_Passive_Drone02_SFX_4.ogg")
 
 const youAintGettingAway= new Audio("../assets/VoiceLines/Kled_Original_Q_hit_10.ogg")
 const youThinkYouCanRun = new Audio("../assets/VoiceLines/Kled_Original_Q_hit_13.ogg")
