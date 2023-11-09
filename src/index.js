@@ -11,12 +11,12 @@ let lastHole = 0;
 let points = 0;
 let difficulty = "hard";
 
-const backgroundTrack = new Audio("./assets/Kled_Original_Passive_Drone02_SFX_4.ogg")
+const backgroundTrack = new Audio("https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Kled_Original_Passive_Drone02_SFX_4.ogg")
 
-const youAintGettingAway= new Audio("../assets/VoiceLines/Kled_Original_Q_hit_10.ogg")
-const youThinkYouCanRun = new Audio("../assets/VoiceLines/Kled_Original_Q_hit_13.ogg")
-const thoughtYouWantedAVisit = new Audio("../assets/VoiceLines/Kled_Original_Q_hit_1.ogg")
-const Gotcha = new Audio("../assets/VoiceLines/Kled_Original_Q_hit_2.ogg")
+const youAintGettingAway= new Audio("https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Kled_Original_Q_hit_10.ogg")
+const youThinkYouCanRun = new Audio("https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Kled_Original_Q_hit_13.ogg")
+const thoughtYouWantedAVisit = new Audio("https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Kled_Original_Q_hit_1.ogg")
+const Gotcha = new Audio("https://static.wikia.nocookie.net/leagueoflegends/images/5/5c/Kled_Original_Q_hit_2.ogg")
 
 const arrayOfVoiceLines = [youAintGettingAway, youThinkYouCanRun, thoughtYouWantedAVisit, Gotcha];
 
