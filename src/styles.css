@@ -8,7 +8,10 @@ html {
   background-size: cover;
   z-index:0;
   overflow: hidden;
+  cursor: url('../assets/mallet.png'), pointer;
 }
+
+
 
 @font-face {
   font-family: "Beaufort for lol";
@@ -53,7 +56,6 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  /*cursor: url('./assets/mallet.png'), pointer;*/
 }
 
 .hole {
